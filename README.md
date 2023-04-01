@@ -7,7 +7,8 @@ Este é o meu primeiro projeto em desenvolvimento web! Fiz uma página responsiv
 - Interatividade com JavaScript
 - Responsividade com Media Queries
 
-#Introdução
+Introdução
+
 Este é um exemplo simples de uma página HTML estilizada com CSS e que utiliza JavaScript para criar uma animação de menu responsivo.
 
 Como utilizar
